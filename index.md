@@ -3,8 +3,6 @@
 - Master's student
 - 22amj12[at]ms.dendai.ac.jp
 
-## News
-- 2021/03/25 I got a B.S. in Tokyo Denki University.
 
 ## Research
 - Hyperspectral Imaging
