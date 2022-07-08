@@ -8,11 +8,15 @@
 ## Research
 - Hyperspectral Imaging
 - Computer Vision, Pattern Recognition, Machine Learning
+
 ## Education
 - 2022.04- : M.S in Tokyo Denki University
 - 2018.04-2022.03: B.S in Tokyo Denki University
+
 ## Awards
 - Student Encouragement Award  of IPSJ, 2021
+
+
 ## Publications
 ### Domestic Conference (Japanese)
 1. __白樫奈々__，鶏内朋也，小篠裕子 隠れた物体の反射光による物体推定, 情報処理学会全国大会，(2022.3)
