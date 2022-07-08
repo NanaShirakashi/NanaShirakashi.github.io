@@ -4,7 +4,7 @@
 - 22amj12[at]ms.dendai.ac.jp
 
 ## News
- 
+- 2021/03/25 I got a M.S. in Tokyo Denki University.
 ## Research
 - Hyperspectral Imaging
 - Computer Vision, Pattern Recognition, Machine Learning
@@ -18,6 +18,7 @@
 
 
 ## Publications
+
 ### Domestic Conference (Japanese)
 1. __白樫奈々__，鶏内朋也，小篠裕子 隠れた物体の反射光による物体推定, 情報処理学会全国大会，(2022.3)
 2. __白樫奈々__，小篠裕子　壁に反射した光を用いた隠れた物体の分類，画像の認識・理解シンポジウム（2022.7）
