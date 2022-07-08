@@ -6,7 +6,7 @@
 ## News
 - 2021/03/25 I got a M.S. in Tokyo Denki University.
 
-Research
+## Research
 - Hyperspectral Imaging
 - Computer Vision, Pattern Recognition, Machine Learning
 
