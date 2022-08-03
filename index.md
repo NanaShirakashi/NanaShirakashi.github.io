@@ -1,4 +1,4 @@
-## Abount
+## About
 - Nana Shirakashi
 - Master's student
 - 22amj12[at]ms.dendai.ac.jp
